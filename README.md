@@ -1,6 +1,7 @@
 # canvas-vue
 
-> example crop image using canvas in vuejs
+> Ejemplo de resaltado de una imagen usando coordenadas en canvas.
+>Mira el ejemplo en vivo [aqui](https://kusillus.github.io/highlighted-image-vue/)
 
 ## Build Setup
 
